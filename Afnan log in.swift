@@ -8,7 +8,7 @@
 import SwiftUI
 
 struct Afnan_log_in: View {
-    @State private var email = "mashael@gmail.com"
+    @State private var email = "Aljwhra@gmail.com"
     @State private var password = "0000"
     @State private var wrongEmail = 0
     @State private var wrongPassword = 0

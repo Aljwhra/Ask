@@ -8,11 +8,11 @@
 import SwiftUI
 
 struct sign_up: View {
-    @State private var email = "mashael@gmail.com"
+    @State private var email = "aljwhra@gmail.com"
     @State private var password = "12345"
     @State private var wrongEmail = 0
     @State private var wrongPassword = 0
-    @State private var fullName = "Mashaell.g"
+    @State private var fullName = "Aljwhra"
     @State private var wrongFullName = 0
     @State private var showingLoginScreen = false
     @State private var rewritePassword = "12345"

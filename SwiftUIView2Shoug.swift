@@ -53,6 +53,7 @@ struct BoxView: View {
     let sectionContent: SectionContent
 
     var body: some View {
+        
         NavigationLink(destination: SwiftUIView_Shoug(sourceLink:self.sectionContent.text)){
             VStack{
                 self.sectionContent.image.foregroundColor(.white)

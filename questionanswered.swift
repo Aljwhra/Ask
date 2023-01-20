@@ -10,7 +10,7 @@ import SwiftUI
 struct questionanswered: View {
     var body: some View {
         
-        NavigationView{
+       // NavigationView{
             
             
             VStack{
@@ -116,7 +116,7 @@ struct questionanswered: View {
         }
         
     }
-}
+//}
 
 struct Aljwhra1_Previews: PreviewProvider {
     static var previews: some View {
